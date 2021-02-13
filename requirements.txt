@@ -1,0 +1,5 @@
+tensorflow==1.14
+keras==2.4.3
+pandas==1.2.2
+numpy==1.20.1
+nltk==1.4.3
